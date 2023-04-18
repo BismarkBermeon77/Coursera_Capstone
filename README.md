@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Este repositorio ha sido creado para realizar el proyecto final 
+Este repositorio ha sido creado para realizar el proyecto final Capstone 
