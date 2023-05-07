@@ -1,0 +1,25 @@
+Proyecto Final Batalla de los Vecindarios
+
+Definición del Problema Comercial: 
+Debido a la creciente demanda personas que quieren emigrar a Canada, muchos desean hacerlo por la via de estudios, los colleges y las universidades con el afan de proporcionar información útil acerca de que campus se ajusta mas las necesidades de sus estudiantes podrián realiar análisis detallados de los lugares de interes a sus alrededores. 
+
+Tambien podria ser usado para promocionar campus que deseen que sean mas seleccionados por alguna razón de interes de sus directivos. Adicionalmente se podría determinar negocios de servicios orientado hacia la comunidad estudiantil de los establecimientos educativos se podria iniciar.
+
+ Este trabajo es de interés para:
+ - Futuros estudiantes
+ - Colleges que deseen promover algún campus especifico
+ - Inversionistas que deseen abrir un negocio teniendo como clientes objetivos a los estudiantes. 
+
+Datos: Los datos necesarios para este analisis son:
+
+Para este modelo de estudia se ha seleccionado al College de New Brunswick, y se obtenido las direcciones y coordenadas de cada uno de sus campus desde google maps desde:
+https://www.google.com/search?rlz=1C1UUXU_esEC1009EC1009&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=APwXEddXPrDK-5wZ7542jtsl-idZHjlIqw:1683324907793&q=new+brunswick+community+college+location&rflfq=1&num=10&ved=2ahUKEwiHn675md_-AhW-RjABHXboAiwQtgN6BAgUEAY#rlfi=hd:;si:;mv:[[47.4634505671727,-60.53686109068198],[44.568004264389,-67.952632575057]]
+se usará:
+NBCC Fredericton Campus	45.947068259791365, -66.64438190804886
+NBCC Moncton Campus	46.108091454167756, -64.82934746027641
+NBCC Miramichi Campus	47.028173172097276, -65.46648169211683
+NBCC St Andrews Campus	45.07780037049503, -67.05461585445526
+NBCC Saint John Grandview Campus	45.286811925863226, -65.99367892844971
+NBCC Woodstock Campus	46.152842161733645, -67.57621942349856
+
+Coordenadas geograficas de la localidad de New Brunswick: Datos geográficos de New Brunswick y de los lugares mas populares de los campus de la zona, los cuales seriviran para tener una mayor idea en que campus son mas interesantes, datos obtenidos de la pagina Foursquare. https://es.foursquare.com/developers/projects
